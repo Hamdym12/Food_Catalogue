@@ -1,10 +1,10 @@
-# meal_app
+# Meal_App
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Meal app is simple food category application.
 
 A few resources to get you started if this is your first Flutter project:
 
