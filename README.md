@@ -1,4 +1,4 @@
-# Meal_App
+# Food_Catalogue
 
 A new Flutter project.
 
